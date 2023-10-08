@@ -1,0 +1,7 @@
+com\prj\springsecurityjwt\models\AuthenticationResponse.class
+com\prj\springsecurityjwt\models\AuthenticationRequest.class
+com\prj\springsecurityjwt\SecurityConfigurer.class
+com\prj\springsecurityjwt\JwtUtil.class
+com\prj\springsecurityjwt\SpringSecurityJwtApplication.class
+com\prj\springsecurityjwt\HelloResource.class
+com\prj\springsecurityjwt\MyUserDetailsService.class
